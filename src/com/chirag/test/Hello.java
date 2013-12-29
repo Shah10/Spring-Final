@@ -6,9 +6,4 @@ public class Hello {
 		
 		return "chirag rrrr";
 	}
-	
-public String getMsg1(){
-		
-		return "chirag ";
-	}
 }
