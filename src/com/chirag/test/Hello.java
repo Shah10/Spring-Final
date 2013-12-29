@@ -9,6 +9,6 @@ public class Hello {
 	
 public String getMsg1(){
 		
-		return "chirag rrrr";
+		return "chirag ";
 	}
 }
